@@ -1,5 +1,6 @@
 # Boston-Housing-Price-Prediction-Model
-- Objective 	: Accurate housing price prediction in Boston area
+
+- This is a project for predicting house prices in Boston using machine learning. I utilized the well-known Boston Housing dataset to train models and predict house prices based on various features.
 
 - Analysis		:
   1. The highly correlated feature important to the target variable are indus, nox, and rad. 
